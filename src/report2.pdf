@@ -1,0 +1,107 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+4 0 obj
+% Page dictionary
+<< /Contents 8 0 R
+ /MediaBox [ 0
+ 0
+ 400
+ 200 ]
+ /Parent 7 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R5': class PDFCatalog 
+5 0 obj
+% Document Root
+<< /Outlines 9 0 R
+ /PageMode /UseNone
+ /Pages 7 0 R
+ /Type /Catalog >>
+endobj
+% 'R6': class PDFInfo 
+6 0 obj
+<< /Author (anonymous)
+ /CreationDate (D:20130623100401-08'00')
+ /Creator (ReportLab PDF Library - www.reportlab.com)
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (unspecified)
+ /Title (Sunspots) >>
+endobj
+% 'R7': class PDFPages 
+7 0 obj
+% page tree
+<< /Count 1
+ /Kids [ 4 0 R ]
+ /Type /Pages >>
+endobj
+% 'R8': class PDFStream 
+8 0 obj
+% page stream
+<< /Filter [ /ASCII85Decode
+ /FlateDecode ]
+ /Length 2641 >>
+stream
+Gau1095c,c&V]r\oH/CI"E9i1,ccf,"*T2;S&o=[AE=p7"s1f\jR;7G?VOj@7Zq8tj-e*%h.1Zun9ebR3Wf;UqY.H@O5m9rj3)B9+?gkGF\k-JnaP/jl\GALr^@P$,/ob40;s)(iQrR)LQBIthZ*HNcTh?jQ_4;&4FB+0r`$*!nc%tFs1j?gS@qdu_p#jYq!\/eW4i/sce_ojo5?g?o%&!9:]L,aJ#Qr6hYmJ-7c$;E%r7JR]^H@n3<":f@f,ZNnc&OU?2aAa].A>5<_BLSfh-P`rj$uDmC`:`X]P87P"nIVXe49mF['lJeT1C3CGeFo$2R_qOMeCS=_.C5Y4DTu[i?fuRXLFN>.ljf5sCdT>51$L_*4>TT=D?KS\sL8?_WV=[USbCkmLJcMCqbq`<0FoYNAbVdF*?.X]P6aJ^.MX[!lWQp&2+dZ'<c8)6MNbPN,62E:7GH?G,]13IaQ,jl;7u[J#:#p2T7@r6AJA?0]aq5:>no`_XpA5:6>'`g>l/+(BMZna2T2ZcSbmh!*4lZ*P_KAV9??(@e&RH";mGIFaSpRihn[O5_l#-SFG2R%?TBNA[11F&Fu;6]Ge-+Sn4NfGB[5Ig[;odSk1EH0#;f(Mh2`(-/!<2.etVa9=:FO6)LXi*M]f.jGG<*?fZDEnIS%<:;CoZ9Tu&lnMb*VC*HiZW1KUP!Z8TL.#1%[M[P0Ge.qXh!V!K4b&+r1=oX/7MSM;>%:g<+nbBU6Ap+H!j[lhfb%!$:+kqBa?>N9k:"hh\YkQ&dZ>4p4cRB-T"sO-5L+Ps=^+RG)UWLEf9f2UHG$WIW!6cD-+DO*#4dVEFYBL.d3$2&NK%[\Go"OS2QFU7S%6O\<.cnBQPRcP8hiqRNbVD,fWiG4<.j6_3TM(te\FjleeT4T+?m-]XW3U'%Er8kmG9Uu&Ia_#mq(*?OHWV-g)SWKkp.i42Q@@N&&dD2WJqJ7OK$3F22^?JW>!6<)]0K.WJc^j2@?T_+uKgC!uXVDY;U_bMC5%84>sQTQqCJ#WNfb=_fB>>)X>:,Tjh(J%r#-.7BB+6LGZZbGXO2E6Q1[kQ*k3YUnIt*-`u28BdaaBaBCA=dSMsGUi$q0mSGW4dP'po:b38[oC^$h)2]sR:/YTTbp9MmYMl/`.Aob?_W.<uYu=#q>/HsA$mY%cHE7oMjHL@[5/C'Mi;0B8er,*\/LL(2,EsAA/.qHQc!Cgs!r#Np"Y>LOWhH*oG973HC93c=b7pbmH7][96?O(WLFut-M581rkJ/l'e\rG^/eI'5>AWL)1F!V!ieg)>L`t2V]b^$JC;js(LG0:769Wn8!J_?5/`o,eGdc:<p2:[6o[LS_Nkt6$6s*gT(.;7ai<D]l*TIo'Ed"Qi+Nb2&)\Cu-`2]09fj"Zi5QhO,X0E%#)ULQa*.g4EonNoBeNGMd\]b_*!(&*r4ST$+a6(.c@U/NLcDSS(YqPl;p8PUnA.P9CKSHqW*[j/ILQt$$Qrp#t*`m5m(n9lC:8tVT-@;E#=GSm/@$4D'g=QKrA8[?plralZflKk^APYYe>^0`h[L=^HVNX.LJd\^Xae%RS?u]ZeE+dZM1tf4nDR*n`T$-*Hoj$iL#ssMh@h6J#E_%-rfQT<D2YI,p8Q+9p"5Ka"m[`^\ljULK?!OnOfL*CK.X>M7@D>*.:)A8-]94VHllgt%;Idl!#&mX!kES2)Eg&X#:i)kc4YG4u)XaI\Y!^uT:FTpbQBaTU+Et@ip7MBcR;D4=GUO%WfM`augl`T(."pGUUZ.BT9#Vq_bX4(HNBNr/8Aj"TL1-LKlGal=/'srA4b.(Zoc&7N#4431fjb-d-Jd=\dW6f=oZSbkfMDeK(!gB$%u@5?l!P$0$>7eH4ZEW]2Vm;D(j95o_T/4fK!"BjrC@LSf]0+]A/fmF2^)X_4XcF@fu>)O+@Ou:"5h7L;`NG4j2-Yt2YOYKWO:@i#%@S/D<qiV/)+GBRUg$&I`'bJ6')6c)Emm#ThaK;TQ**J#SaKJY'O?5631Cj(\U:j#`\&m;$d.6;Y?Q<5aN"ljku!S3,p/S2YABP*/1Nte:f$TVD_U_$pk@D_Ae;o58EW467h<^Y&68`5'&f<9Zo`\U[Sa<(iW=.B`nOX).CQ_ne5.rPWh9`9Zo^VbX*:/_@[HI(H3="40c0IVWFK%\[406`"A$7P+-_m*5SRnE(_.1(8IH\>0\Eo)V:*^ilG&aG+=s[Jl/Gm\t:r+ItT;p$V-O\?T<X7)cm-UE'u=ZOp@$*d5Za=%7f$\jMDMS,p<NHE!0+Z33qNLV@4Kg8u(B-p<Y];jYC5QVElFDE9p_$)SpqA#9dAejJ-+,<E:$SCdEAQ@:Ti_dHr%ZGGY9C@_rCGMNt@I7dBkXdLA\3EFYH_ok&6]#hDMUM,kP2do+>sSV1BQ.V9WZ?preJdqQ1\,DItXb9B]iSV/]g)R=3:_H%%gg.!<:8V+bkXZ-sVKbe!7jDQ@&nZh*[>CBs0)ih/-/X";3,OEE$UpAr-,;nSgi<YL=.?s3JPjr\A@OmJCCF_-)JKm"VG:X\nr+-(N0WM=G-\m$6qRL3h:M\3":[#UY+0Jt.ecSZLn^:WQm<fsf_?uLXHLujB]Br=!Witd)gtR$uO1q9bhWAg+^YF8u31g!"EK5>"hu+(VG-5r~>endstream
+endobj
+% 'R9': class PDFOutlines 
+9 0 obj
+<< /Count 0
+ /Type /Outlines >>
+endobj
+xref
+0 10
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000553 00000 n
+0000000820 00000 n
+0000000954 00000 n
+0000001236 00000 n
+0000001341 00000 n
+0000004125 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\214\304\010\234\250\211\363\353O\233E\220\271\365\011s) (\214\304\010\234\250\211\363\353O\233E\220\271\365\011s)] 
+
+ /Info 6 0 R
+ /Root 5 0 R
+ /Size 10 >>
+startxref
+4176
+%%EOF
